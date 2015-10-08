@@ -1,3 +1,2 @@
 # test-lab-repo
-# test-lab-repo
-CHANGES
+THIS IS BETA BRANCH. FEAR ME!
